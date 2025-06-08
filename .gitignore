@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Temp files
+temp_files/
+
+# Model directories (optional if large or reproducible)
+LaMini-Flan-T5-248M/
+mbart-mlsum-automatic-summarization/
+offload/
+
+# IDE settings
+.vscode/
